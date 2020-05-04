@@ -6,7 +6,7 @@
 
 I got the dataset from Kaggle (an online community of data scientists and machine learning practitioners). 
 
-One is about StraCraft II gameplay analysis. 
+One is about StarCraft II gameplay analysis. 
 
 The link is down below:
 
